@@ -1,0 +1,49 @@
+.container {
+  text-align: center;
+  left: 0;
+  right: 0;
+  top: 50%;
+}
+.container-img{
+  margin:20px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.h1-home{
+  font-size: 30px;
+  font-weight: 600;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.h2-home{
+  font-size: 25px;
+  font-weight: 400;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align-last: left;
+
+}
+.input-home{
+background-color: #F3F3FA;
+border-radius: 30px;
+height: 36px;
+border: 0;
+}
+.padding-home{
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align-last: left;
+
+}
+.p-home{
+  text-align: justify;
+  font-size: 15px;
+  font-weight: 300;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.button-home{
+  background-color: #091A3C;
+}
